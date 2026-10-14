@@ -1,0 +1,2 @@
+# Moniepoint-Transaction-Failure-Performance-Analytics-Dashboard-Power-BI-
+A two-page Power BI dashboard analysing 30K Moniepoint Microfinance Bank transactions. It shows success, failure and reversal rates, plus value and fees, across channels, states, business categories and customer types, helping stakeholders see why transactions fail, which segments perform best, and how value changes over time.
