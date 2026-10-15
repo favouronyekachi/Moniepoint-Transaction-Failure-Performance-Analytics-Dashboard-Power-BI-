@@ -176,7 +176,7 @@ This dashboard turns raw transaction data into a strategic tool for understandin
 
 | File | Description |
 |------|-------------|
-| `[your-dashboard].pbix` | Completed Power BI dashboard |
+| `[moniepoint_transactions_dataset].pbix` | Completed Power BI dashboard |
 | `failure-dashboard.png` | Preview of the Transaction Failure & Operational Analysis page |
 | `performance-dashboard.png` | Preview of the Transaction Performance Dashboard page |
 | `power-query-preview.png` | Screenshot of the Power Query Editor and data profiling |
@@ -187,7 +187,7 @@ This dashboard turns raw transaction data into a strategic tool for understandin
 
 ## 🔧 How to Download and Use
 
-1. Download `[your-dashboard].pbix`.
+1. Download `[moniepoint_transactions_dataset].pbix`.
 2. Open the file using Microsoft Power BI Desktop.
 3. Use the available filters and slicers to explore transactions by channel, transaction type, customer type, month and state.
 
